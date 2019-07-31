@@ -1,0 +1,19 @@
+li {
+  color: red;
+}
+
+#firstParagraph {
+  color: red;
+  font-size: 3opx;
+}
+
+.spanClass {}
+
+#divId {
+  border: 3px solid blue;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  margin: 50px;
+  background-color: url(https://s23209.pcdn.co/wp-content/uploads/2019/05/Instant-Pot-Ground-Beef-and-PastaIMG_9819.jpg);
+}
